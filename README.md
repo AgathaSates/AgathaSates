@@ -1,7 +1,7 @@
 <h1 align="center">🐣 Oi, eu sou a Agatha!</h1>
 
 <p>
-  <img align="left" src="https://media1.tenor.com/m/Jsj-LPg73J0AAAAd/cute-animals.gif" width="130" alt="Cute animal" />
+  <img align="left" src="https://media1.tenor.com/m/Jsj-LPg73J0AAAAd/cute-animals.gif" width="135" alt="Cute animal" />
   <img align="right" src="https://media1.tenor.com/m/BnIPE5qUprgAAAAd/luna-sailor-moon.gif" width="200" alt="Luna gif" />
 </p>
 
