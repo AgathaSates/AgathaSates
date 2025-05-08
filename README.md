@@ -79,7 +79,9 @@
 
 ### 👁️ Contador de Visitas
 
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@AgathaSates?theme=original-old" alt="Contador de Visitas" />
+</p>
 
 ---
 
