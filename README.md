@@ -77,15 +77,7 @@
 
 ---
 
-### 👁️ Contador de Visitas
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@AgathaSates?theme=original-old" alt="Contador de Visitas" />
-</p>
-
----
-
-<h3 align="center">Obrigada por visitar meu perfil! ✨</h3>
+<h2 align="center">Obrigada por visitar meu perfil! ✨</h2>
 <p align="center">Volte sempre que quiser! 💖</p>
 
 <p align="center">
