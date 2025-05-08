@@ -2,7 +2,7 @@
 
 <p>
   <img align="left" src="https://media1.tenor.com/m/Jsj-LPg73J0AAAAd/cute-animals.gif" width="130" alt="Cute animal" />
-  <img align="right" src="https://media1.tenor.com/m/BnIPE5qUprgAAAAd/luna-sailor-moon.gif" width="205" alt="Luna gif" />
+  <img align="right" src="https://media1.tenor.com/m/BnIPE5qUprgAAAAd/luna-sailor-moon.gif" width="200" alt="Luna gif" />
 </p>
 
 <p align="center">
@@ -79,9 +79,7 @@
 
 ### 👁️ Contador de Visitas
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@AgathaSates?theme=original-old" alt="Contador de Visitas" />
-</p>
+
 
 ---
 
