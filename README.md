@@ -14,21 +14,27 @@
 
 ---
 
-<img align="right" src="https://media1.tenor.com/m/uUBI6n0_wuMAAAAd/anime-computer.gif" width="280" alt="Anime girl coding" />
-
 ### 💡 Sobre mim
 
-- 🎓 Estudando **HTML, CSS, JavaScript, C#, .NET, SQL e Angular**  
-- 🌱 Aprendendo sobre **Clean Architecture**, **boas práticas** e **Git**  
-- 💬 Gosto de compartilhar o que aprendo e sempre trocar experiências com outros devs  
-- 🐱 Amo **gatos**, 🍟 não vivo sem **batata frita** e 🎌 sou viciada em **animes**
+- 🎓 Em busca de me tornar dev fullstack, errando bastante e aprendendo todo dia  
+- 🌱 Curioso e mão na massa: quebro a cara, mas sempre dou um jeito de consertar  
+- 💬 gosto de ir além do básico e soltar a criatividade nos projetos  
+- 🐱 Amo gatos, 🍟 não sobrevivo sem batata frita, 🎌 anime salva meus dias
 
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,angular,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,mysql,git,github,visualstudio,figma" />
+</p>
+
+<p align="center">
+  <b>O que já explorei até aqui:</b> HTML, CSS, Bootstrap, JavaScript, .NET, C#, SQL, Entity Framework, MVC, Git, GitHub, Visual Studio, Figma
+</p>
+
+<p align="center">
+  Explorando novas tecnologias à medida que avanço no curso!
 </p>
 
 ---
@@ -36,15 +42,15 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaSates&layout=compact&langs_count=6&theme=tokyonight" width="390" />
   <img src="https://github-readme-stats.vercel.app/api?username=AgathaSates&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="360" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaSates&layout=compact&langs_count=6&theme=tokyonight" width="390" />
 </p>
-
 
 ---
 
 ### ✨ Alguns dos meus projetos
+
 
   📦 [**Controle de Medicamentos**](https://github.com/Code-Oblivion/Controle-de-Medicamentos)
   
@@ -59,23 +65,40 @@
   <img src="https://img.shields.io/badge/Comprometimento-yellow?style=for-the-badge&logo=clockify&logoColor=black"/>
 </p>
 
+🗓️ [**E-Agenda**](https://github.com/Code-Oblivion/E-Agenda)  
+
+Segundo projeto em equipe, agora focado em aplicações web com <strong>ASP.NET Core MVC</strong>.  
+Desenvolvemos uma agenda integrada para organização de tarefas, contatos e compromissos, aprofundando conceitos de MVC e desenvolvimento web colaborativo.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Liderança-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Criatividade-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-success?style=for-the-badge"/>
+</p>
+
 ---
 
 ### 🔗 Links
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/agatha-sates-4537a7355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:agathasates.dev@gmail.com?subject=Contato%20via%20github&body=Olá%2C%20gostaria%20de%20entrar%20em%20contato%20com%20você." target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://wa.me/555194611212?text=Olá! Vim pelo github!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
   <a href="https://www.instagram.com/satesagatha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/agatha.sates.7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/agatha-sates-4537a7355/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
----
 
 <h2 align="center">Obrigada por visitar meu perfil! ✨</h2>
 <p align="center">Volte sempre que quiser! 💖</p>
