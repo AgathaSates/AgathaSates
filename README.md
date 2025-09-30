@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <b>O que já explorei até aqui:</b> Angular, TypeScript, HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, .NET, C#, Node.js, SQL (MySQL e PostgreSQL), Redis, Entity Framework, MVC, Git, GitHub, VS Code, Visual Studio, Docker, ESLint, Prettier, Postman, Swagger, DBeaver, New Relic
+  <b>O que já explorei até aqui:</b> Angular, TypeScript, HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, .NET, C#, Node.js, SQL (MySQL e PostgreSQL), Redis, Git, GitHub, VS Code, Visual Studio, Docker, Postman, Azure, ESLint, Prettier, Swagger, DBeaver, New Relic
 </p>
 
 <p align="center">
