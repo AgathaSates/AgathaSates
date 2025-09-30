@@ -17,13 +17,13 @@
 ### 🛠️ Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,sass,bootstrap,js,dotnet,cs,nodejs,postgres,mysql,redis,git,github,vscode,visualstudio,docker,postman,azure&perline=50" height="45"/>
-  <img src="https://cdn.simpleicons.org/eslint" height="45" alt="ESLint" title="ESLint" />
-  <img src="https://cdn.simpleicons.org/prettier" height="45" alt="Prettier" title="Prettier" />
-  <img src="https://cdn.simpleicons.org/swagger" height="45" alt="Swagger" title="Swagger" />
-  <img src="https://cdn.simpleicons.org/dbeaver" height="45" alt="DBeaver" title="DBeaver" />
-  <img src="https://cdn.simpleicons.org/newrelic" height="45" alt="New Relic" title="New Relic" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="45" alt="DotNet"  title="Dot Net" >
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,sass,bootstrap,js,dotnet,cs,nodejs,postgres,mysql,redis,git,github,vscode,visualstudio,docker,postman,azure&perline=50" height="40"/>
+  <img src="https://cdn.simpleicons.org/eslint" height="40" alt="ESLint" title="ESLint" />
+  <img src="https://cdn.simpleicons.org/prettier" height="40" alt="Prettier" title="Prettier" />
+  <img src="https://cdn.simpleicons.org/swagger" height="40" alt="Swagger" title="Swagger" />
+  <img src="https://cdn.simpleicons.org/dbeaver" height="40" alt="DBeaver" title="DBeaver" />
+  <img src="https://cdn.simpleicons.org/newrelic" height="40" alt="New Relic" title="New Relic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" alt="DotNet"  title="Dot Net" >
 </p>
 
 <p align="center">
