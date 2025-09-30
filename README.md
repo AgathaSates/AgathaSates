@@ -6,20 +6,11 @@
 </p>
 
 <p align="center">
-  Me chamo <strong>Agatha Sates</strong>, tenho <strong>23 anos</strong> e sou de <strong>Canoas/RS</strong>.<br/>
+  Me chamo <strong>Agatha Sates</strong>, tenho <strong>24 anos</strong> e sou de <strong>Canoas/RS</strong>.<br/>
   Iniciei recentemente minha jornada no mundo da <strong>programação</strong>.<br/>
   Atualmente, estou estudando para me tornar uma <strong>desenvolvedora FullStack</strong><br/>
   pela <a href="https://academiadoprogramador.net/inicio" target="_blank"><strong>Academia do Programador</strong></a>. 💻✨
 </p>
-
----
-
-### 💡 Sobre mim
-
-- 🎓 Em busca de me tornar dev fullstack, errando bastante e aprendendo todo dia  
-- 🌱 Curioso e mão na massa: quebro a cara, mas sempre dou um jeito de consertar  
-- 💬 gosto de ir além do básico e soltar a criatividade nos projetos  
-- 🐱 Amo gatos, 🍟 não sobrevivo sem batata frita, 🎌 anime salva meus dias
 
 ---
 
