@@ -17,11 +17,17 @@
 ### 🛠️ Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,mysql,git,github,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,sass,bootstrap,js,dotnet,cs,nodejs,postgres,mysql,redis,git,github,vscode,visualstudio,docker,postman,azure&perline=50" height="45"/>
+  <img src="https://cdn.simpleicons.org/eslint" height="45" alt="ESLint" title="ESLint" />
+  <img src="https://cdn.simpleicons.org/prettier" height="45" alt="Prettier" title="Prettier" />
+  <img src="https://cdn.simpleicons.org/swagger" height="45" alt="Swagger" title="Swagger" />
+  <img src="https://cdn.simpleicons.org/dbeaver" height="45" alt="DBeaver" title="DBeaver" />
+  <img src="https://cdn.simpleicons.org/newrelic" height="45" alt="New Relic" title="New Relic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="45" alt="DotNet"  title="Dot Net" >
 </p>
 
 <p align="center">
-  <b>O que já explorei até aqui:</b> HTML, CSS, Bootstrap, JavaScript, .NET, C#, SQL, Entity Framework, MVC, Git, GitHub, Visual Studio, Figma
+  <b>O que já explorei até aqui:</b> Angular, TypeScript, HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, .NET, C#, Node.js, SQL (MySQL e PostgreSQL), Redis, Entity Framework, MVC, Git, GitHub, VS Code, Visual Studio, Docker, ESLint, Prettier, Postman, Swagger, DBeaver, New Relic
 </p>
 
 <p align="center">
