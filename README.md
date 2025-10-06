@@ -29,6 +29,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="MSSQL" title="MSSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="45" alt="ASPNET MVC" title="ASPNET MVC" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" title="Redis" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />
