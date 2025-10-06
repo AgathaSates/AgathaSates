@@ -17,37 +17,57 @@
 ### 🛠️ Tecnologias que estou aprendendo
 
 <p align="center">
+  <!-- Frontend Core -->
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" title="Angular" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=rxjs&theme=dark" height="45" alt="RxJS" title="RxJS" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" alt="JavaScript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="SASS/SCSS" title="SASS/SCSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" title="JavaScript" />
+
+  <!-- Backend / Platform -->
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" title=".NET" />
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="45" alt="ASP.NET MVC" title="ASP.NET MVC" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />
+
+  <!-- APIs / Auth -->
+  <img src="https://cdn.simpleicons.org/swagger?viewbox=auto" height="45" alt="Swagger" title="Swagger" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto" height="45" alt="JSON Web Tokens" title="JSON Web Tokens" />
+  <img src="https://avatars.githubusercontent.com/u/890883?s=256" height="45" alt="AutoMapper" title="AutoMapper" />
+  <img src="https://github.com/FluentValidation/FluentValidation/raw/main/fv-small.png" height="45" alt="FluentValidation" title="FluentValidation" />
+
+  <!-- Qualidade / Testes -->
+  <img src="https://cdn.simpleicons.org/selenium?viewbox=auto" height="45" alt="Selenium" title="Selenium" />
+  <img src="https://cdn.simpleicons.org/moq?viewbox=auto" height="45" alt="Moq" title="Moq" />
+  <img src="https://cdn.simpleicons.org/eslint?viewbox=auto" height="45" alt="ESLint" title="ESLint" />
+  <img src="https://cdn.simpleicons.org/prettier?viewbox=auto" height="45" alt="Prettier" title="Prettier" />
+
+  <!-- Dados / Cache / Ferramentas de DB -->
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="MSSQL" title="MSSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="45" alt="ASPNET MVC" title="ASPNET MVC" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" title="Redis" />
+  <img src="https://cdn.simpleicons.org/dbeaver?viewbox=auto" height="45" alt="DBeaver" title="DBeaver" />
+
+  <!-- DevTools / Cloud / Observabilidade -->
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://cdn.simpleicons.org/githubactions?viewbox=auto" height="45" alt="GitHub Actions" title="GitHub Actions" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" height="45" alt="PowerShell" title="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" title="Visual Studio" />
   <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure" title="Azure" />
-  <img src="https://cdn.simpleicons.org/eslint?viewbox=auto" height="45" alt="ESLint" title="ESLint" />
-  <img src="https://cdn.simpleicons.org/prettier?viewbox=auto" height="45" alt="Prettier" title="Prettier" />
-  <img src="https://cdn.simpleicons.org/swagger?viewbox=auto" height="45" alt="Swagger" title="Swagger" />
-  <img src="https://cdn.simpleicons.org/dbeaver?viewbox=auto" height="45" alt="DBeaver" title="DBeaver" />
   <img src="https://cdn.simpleicons.org/newrelic?viewbox=auto" height="45" alt="New Relic" title="New Relic" />
 </p>
 
+
 <p align="center">
-  <b>O que já explorei até aqui:</b> Angular, TypeScript, HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, .NET, C#, Node.js, SQL (MySQL e PostgreSQL), Redis, Git, GitHub, VS Code, Visual Studio, Docker, Postman, Azure, ESLint, Prettier, Swagger, DBeaver, New Relic
+  <b>O que já explorei até aqui:</b> Angular, TypeScript, RxJS, JavaScript, HTML, CSS, SASS/SCSS, Bootstrap, .NET, C#, ASP.NET MVC, Node.js, Swagger, Autenticação com JWT, AutoMapper, FluentValidation, Selenium, Moq, PostgreSQL, MySQL, Microsoft SQL Server, Redis, Git, GitHub, VS Code, Visual Studio, Docker, Postman, PowerShell, Azure, ESLint, Prettier, DBeaver, New Relic
 </p>
 
 <p align="center">
