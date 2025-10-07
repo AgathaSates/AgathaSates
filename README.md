@@ -63,15 +63,10 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" title="Visual Studio" />
   <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure" title="Azure" />
   <img src="https://cdn.simpleicons.org/newrelic?viewbox=auto" height="45" alt="New Relic" title="New Relic" />
-</p>
+  <img src="https://cdn.simpleicons.org/nuget?viewbox=auto" height="45" alt="NuGet" title="NuGet" />
+  <img src="https://cdn.simpleicons.org/npm?viewbox=auto" height="45" alt="npm" title="npm" />
+  <img src="https://cdn.simpleicons.org/excalidraw?viewbox=auto" height="45" alt="Excalidraw" title="Excalidraw" />
 
-
-<p align="center">
-  <b>O que já explorei até aqui:</b> Angular, TypeScript, RxJS, JavaScript, HTML, CSS, SASS/SCSS, Bootstrap, .NET, C#, ASP.NET MVC, Node.js, Swagger, Autenticação com JWT, AutoMapper, FluentValidation, Selenium, Moq, PostgreSQL, MySQL, Microsoft SQL Server, Redis, Git, GitHub, VS Code, Visual Studio, Docker, Postman, PowerShell, Azure, ESLint, Prettier, DBeaver, New Relic
-</p>
-
-<p align="center">
-  Explorando novas tecnologias à medida que avanço no curso!
 </p>
 
 ---
