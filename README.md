@@ -75,38 +75,62 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaSates&layout=compact&langs_count=6&theme=tokyonight" width="390" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AgathaSates&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="360" />
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 
 ### ✨ Alguns dos meus projetos
 
+🌐 [**Portfólio Angular**](https://agathasates.github.io/portfolio-angular)
 
-  📦 [**Controle de Medicamentos**](https://github.com/Code-Oblivion/Controle-de-Medicamentos)
-  
-  Primeiro projeto desenvolvido em equipe durante o curso da <strong>Academia do Programador</strong>.  
-  Nele, trabalhei com <strong>C# e .NET Console</strong>, aplicando conceitos de orientação a objetos e persistência de dados.  
-  Além da parte técnica, o projeto também foi essencial para desenvolver habilidades comportamentais como:
+**Portfólio pessoal** construída em **Angular**, reunindo projetos e formas de contato em uma interface leve e direta.  
+Foco em **clareza visual**, **componentização** e **tipagem forte com TypeScript**, valorizando **semântica HTML5** e **estilos consistentes com CSS3**.  
+Serve como base **evolutiva** para estudar e refinar práticas de **UI/UX**, mantendo um fluxo de navegação simples, objetivo e pronto para crescer com novos módulos.  
+Publicação realizada via **GitHub Pages** para facilitar acesso e atualização contínua.
 
-<p align="leght">
-  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe-important?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Comunicação-blue?style=for-the-badge&logo=googlemeet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colaboração-9cf?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Comprometimento-yellow?style=for-the-badge&logo=clockify&logoColor=black"/>
+<p> 🔧 <strong>Habilidades comportamentais desenvolvidas:</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Autonomia-purple?style=for-the-badge&logo=sololearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-E4405F?style=for-the-badge&logo=todoist&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Curiosidade%20T%C3%A9cnica-302683?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proatividade-f97316?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Criatividade-pink?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-🗓️ [**E-Agenda**](https://github.com/Code-Oblivion/E-Agenda)  
+---
 
-Segundo projeto em equipe, agora focado em aplicações web com <strong>ASP.NET Core MVC</strong>.  
-Desenvolvemos uma agenda integrada para organização de tarefas, contatos e compromissos, aprofundando conceitos de MVC e desenvolvimento web colaborativo.
+ 🅿️ [**Gestão de Estacionamentos**](https://github.com/AgathaSates/Gestao-de-Estacionamentos)
+  
+  **Projeto de encerramento do trilho de Backend** na **Academia do Programador**.  
+Construído com **C# e ASP.NET Core**, expondo uma **API REST** documentada via **Swagger/OpenAPI** e organizada em **CQRS (Command Query Responsibility Segregation)**.  
+Com **Docker Compose** para subir aplicação e dependências rapidamente, garantindo ambiente reprodutível e execução local simplificada.
 
+<p> 🔧 <strong>Habilidades comportamentais desenvolvidas:</strong></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Liderança-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Criatividade-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe-important?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o%20%26%20Disciplina-8B5CF6?style=for-the-badge&logo=todoist&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-ff6b6b?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foco%20em%20Qualidade-22c55e?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Comprometimento-yellow?style=for-the-badge&logo=clockify&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kanban-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
+  
+</p>
+
+---
+
+📝 [**Gerador de Testes**](https://github.com/AgathaSates/Gerador-de-Testes)  
+
+**Aplicação web** desenvolvida em **C# e ASP.NET MVC**, com **SQL Server** para persistência de dados.  
+O **Gerador de Testes** foi projetado para facilitar a criação, organização e impressão de avaliações escolares, com regras bem definidas e geração automatizada de provas e gabaritos.
+
+<p> 🔧 <strong>Habilidades comportamentais desenvolvidas:</strong></p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Lideran%C3%A7a-purple?style=for-the-badge&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colabora%C3%A7%C3%A3o-9cf?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reuni%C3%B5es%20efetivas-188038?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Feedback%20Construtivo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Planejamento%20%C3%81gil-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
@@ -131,8 +155,9 @@ Desenvolvemos uma agenda integrada para organização de tarefas, contatos e com
   </a>
 </p>
 
+---
 
-<h2 align="center">Obrigada por visitar meu perfil! ✨</h2>
+<h3 align="center">Obrigada por visitar meu perfil! ✨</h2>
 <p align="center">Volte sempre que quiser! 💖</p>
 
 <p align="center">
