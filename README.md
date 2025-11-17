@@ -81,7 +81,7 @@
 
 ### ✨ Alguns dos meus projetos
 
-🌐 [**Portfólio Angular**](https://agathasates.github.io/portfolio-angular)
+🌐 [**Portfólio Angular**](https://agathasates.github.io/Portfolio)
 
 **Portfólio pessoal** construída em **Angular**, reunindo projetos e formas de contato em uma interface leve e direta.  
 Foco em **clareza visual**, **componentização** e **tipagem forte com TypeScript**, valorizando **semântica HTML5** e **estilos consistentes com CSS3**.  
