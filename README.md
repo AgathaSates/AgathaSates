@@ -71,14 +71,6 @@
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaSates&layout=compact&langs_count=6&theme=tokyonight&v=1" width="390" />
-</p>
-
----
-
 ### ✨ Alguns dos meus projetos
 
 🚗 [**OblivionDrive (TCC)**](https://github.com/AgathaSates/oblivion-drive)
@@ -98,7 +90,7 @@ Inclui geração de **documentos em PDF** e **relatórios (CSV/financeiro)**, co
 
 ---
 
-🏥 [**Organiza Med**](#)
+🏥 [**Organiza Med**](https://github.com/AgathaSates/organiza-med)
 
 **Sistema para gestão de clínicas**, organizado em módulos e pensado para apoiar rotinas do dia a dia (cadastros, fluxos e controle).  
 Projeto voltado a praticar **modelagem de domínio**, **organização de camadas**, **regras de negócio** e evolução contínua do sistema com foco em manutenção e clareza.
