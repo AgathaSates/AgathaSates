@@ -8,7 +8,7 @@
 <p align="center">
   Me chamo <strong>Agatha Sates</strong>, tenho <strong>24 anos</strong> e sou de <strong>Canoas/RS</strong>.<br/>
   Iniciei recentemente minha jornada no mundo da <strong>programação</strong>.<br/>
-  Atualmente, estou estudando para me tornar uma <strong>desenvolvedora FullStack</strong><br/>
+  Sou formada como <strong>Desenvolvedora Full-Stack</strong><br/>
   pela <a href="https://academiadoprogramador.net/inicio" target="_blank"><strong>Academia do Programador</strong></a>. 💻✨
 </p>
 
@@ -74,16 +74,48 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaSates&layout=compact&langs_count=6&theme=tokyonight" width="390" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaSates&layout=compact&langs_count=6&theme=tokyonight&v=1" width="390" />
 </p>
 
 ---
 
 ### ✨ Alguns dos meus projetos
 
+🚗 [**OblivionDrive (TCC)**](https://github.com/AgathaSates/oblivion-drive)
+
+**Projeto de TCC** da **Academia do Programador**, desenvolvido como uma **plataforma de locadora de veículos full stack**.  
+Foco em um fluxo completo de negócio (cadastros, autenticação, aluguel/devolução), com atenção a **arquitetura**, **qualidade**, **testes automatizados** e **automação/CI/CD**.  
+Inclui geração de **documentos em PDF** e **relatórios (CSV/financeiro)**, consolidando o aprendizado de desenvolvimento e entrega de uma solução completa.
+
+<p> 🔧 <strong>Habilidades comportamentais desenvolvidas:</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Autonomia-purple?style=for-the-badge&logo=sololearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-ff6b6b?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foco%20em%20Qualidade-22c55e?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Comprometimento-yellow?style=for-the-badge&logo=clockify&logoColor=black"/>
+</p>
+
+---
+
+🏥 [**Organiza Med**](#)
+
+**Sistema para gestão de clínicas**, organizado em módulos e pensado para apoiar rotinas do dia a dia (cadastros, fluxos e controle).  
+Projeto voltado a praticar **modelagem de domínio**, **organização de camadas**, **regras de negócio** e evolução contínua do sistema com foco em manutenção e clareza.
+
+<p> 🔧 <strong>Habilidades comportamentais desenvolvidas:</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o%20%26%20Disciplina-8B5CF6?style=for-the-badge&logo=todoist&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Planejamento%20%C3%81gil-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-188038?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
+</p>
+
+---
+
 🌐 [**Portfólio Angular**](https://agathasates.github.io/portfolio-angular)
 
-**Portfólio pessoal** construída em **Angular**, reunindo projetos e formas de contato em uma interface leve e direta.  
+**Portfólio pessoal** construído em **Angular**, reunindo projetos e formas de contato em uma interface leve e direta.  
 Foco em **clareza visual**, **componentização** e **tipagem forte com TypeScript**, valorizando **semântica HTML5** e **estilos consistentes com CSS3**.  
 Serve como base **evolutiva** para estudar e refinar práticas de **UI/UX**, mantendo um fluxo de navegação simples, objetivo e pronto para crescer com novos módulos.  
 Publicação realizada via **GitHub Pages** para facilitar acesso e atualização contínua.
@@ -99,9 +131,9 @@ Publicação realizada via **GitHub Pages** para facilitar acesso e atualizaçã
 
 ---
 
- 🅿️ [**Gestão de Estacionamentos**](https://github.com/AgathaSates/Gestao-de-Estacionamentos)
-  
-  **Projeto de encerramento do trilho de Backend** na **Academia do Programador**.  
+🅿️ [**Gestão de Estacionamentos**](https://github.com/AgathaSates/Gestao-de-Estacionamentos)
+
+**Projeto de encerramento do trilho de Backend** na **Academia do Programador**.  
 Construído com **C# e ASP.NET Core**, expondo uma **API REST** documentada via **Swagger/OpenAPI** e organizada em **CQRS (Command Query Responsibility Segregation)**.  
 Com **Docker Compose** para subir aplicação e dependências rapidamente, garantindo ambiente reprodutível e execução local simplificada.
 
@@ -113,27 +145,8 @@ Com **Docker Compose** para subir aplicação e dependências rapidamente, garan
   <img src="https://img.shields.io/badge/Foco%20em%20Qualidade-22c55e?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Comprometimento-yellow?style=for-the-badge&logo=clockify&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kanban-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
-  
 </p>
 
----
-
-📝 [**Gerador de Testes**](https://github.com/AgathaSates/Gerador-de-Testes)  
-
-**Aplicação web** desenvolvida em **C# e ASP.NET MVC**, com **SQL Server** para persistência de dados.  
-O **Gerador de Testes** foi projetado para facilitar a criação, organização e impressão de avaliações escolares, com regras bem definidas e geração automatizada de provas e gabaritos.
-
-<p> 🔧 <strong>Habilidades comportamentais desenvolvidas:</strong></p>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Lideran%C3%A7a-purple?style=for-the-badge&logo=asana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colabora%C3%A7%C3%A3o-9cf?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reuni%C3%B5es%20efetivas-188038?style=for-the-badge&logo=googlemeet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Feedback%20Construtivo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Planejamento%20%C3%81gil-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-
----
 
 ### 🔗 Links
 
