@@ -9,7 +9,8 @@
   Me chamo <strong>Agatha Sates</strong>, tenho <strong>24 anos</strong> e sou de <strong>Canoas/RS</strong>.<br/>
   Iniciei recentemente minha jornada no mundo da <strong>programação</strong>.<br/>
   Sou formada como <strong>Desenvolvedora Full-Stack</strong><br/>
-  pela <a href="https://academiadoprogramador.net/inicio" target="_blank"><strong>Academia do Programador</strong></a>. 💻✨
+  pela <a href="https://academiadoprogramador.net/inicio" target="_blank"><strong>Academia do Programador</strong></a>. 💻✨<br/>
+  Atualmente, estou em busca da <strong>minha primeira oportunidade profissional</strong> na área, com muita vontade de <strong>aprender, evoluir e contribuir</strong> com o time. 🚀
 </p>
 
 ---
@@ -139,6 +140,7 @@ Com **Docker Compose** para subir aplicação e dependências rapidamente, garan
   <img src="https://img.shields.io/badge/Kanban-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 
+---
 
 ### 🔗 Links
 
